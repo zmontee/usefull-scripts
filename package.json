@@ -1,0 +1,19 @@
+{
+  "name": "usefull-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmontee/usefull-scripts.git"
+  },
+  "author": "Andrii.Stetsiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmontee/usefull-scripts/issues"
+  },
+  "homepage": "https://github.com/zmontee/usefull-scripts#readme"
+}
