@@ -1,0 +1,442 @@
+{
+    "button.download": {
+        "uk": "Завантажити",
+        "ru": "Скачать",
+        "en": "Download"
+    },
+    "button.view": {
+        "uk": "Переглянути",
+        "ru": "Посмотреть",
+        "en": "Look"
+    },
+    "contacts.address": {
+        "uk": "Адреса",
+        "ru": "Адресс",
+        "en": "Address"
+    },
+    "contacts.bankdetails": {
+        "uk": "Платіжні реквізити",
+        "ru": "Реквизиты",
+        "en": "Bank Details"
+    },
+    "contacts.delivery1": {
+        "uk": "Адреса Нової пошти для відправлень до <mark>2 кг</mark>",
+        "ru": "Адрес Новой почты для отправки до <mark>2 кг</mark>",
+        "en": "Nova Poshta address for sending up to <mark>2 kg</mark>"
+    },
+    "contacts.delivery2": {
+        "uk": "Адреса Нової пошти для відправлень до <mark>30 кг</mark>",
+        "ru": "Адрес Новой почты для отправки до <mark>30 кг</mark>",
+        "en": "Nova Poshta address for sending up to <mark>30 kg</mark>"
+    },
+    "contacts.edrpou": {
+        "uk": "Код ЄДРПОУ",
+        "ru": "Код ЕДРПОУ",
+        "en": "USREOU"
+    },
+    "contacts.email": {
+        "uk": "Електронна пошта",
+        "ru": "Електронная почта",
+        "en": "Email"
+    },
+    "contacts.hint.main-email": {
+        "uk": "Відділ продажу",
+        "ru": "Отдел продаж",
+        "en": "Sales"
+    },
+    "contacts.hint.main-phone": {
+        "uk": "Пряма лінія",
+        "ru": "Основной телефон",
+        "en": "Main phone"
+    },
+    "contacts.hint.sales-phone": {
+        "uk": "Відділ продажу",
+        "ru": "Отдел продаж",
+        "en": "Sales"
+    },
+    "contacts.hint.support": {
+        "uk": "Техпідтримка",
+        "ru": "Техподдержка",
+        "en": "Support"
+    },
+    "contacts.iban": {
+        "uk": "IBAN у АБ «УКРГАЗБАНК»",
+        "ru": "IBAN",
+        "en": "IBAN"
+    },
+    "contacts.ipn": {
+        "uk": "ІПН",
+        "ru": "ИПН",
+        "en": "IPN"
+    },
+    "contacts.mfo": {
+        "uk": "МФО",
+        "ru": "МФО",
+        "en": "МФО"
+    },
+    "contacts.phone": {
+        "uk": "Телефон",
+        "ru": "Телефон",
+        "en": "Phone"
+    },
+    "contacts.postoffice": {
+        "uk": "м. Київ",
+        "ru": "г. Киев",
+        "en": "Kyiv city"
+    },
+    "contacts.recipient": {
+        "uk": "Одержувач",
+        "ru": "Получатель",
+        "en": "Recipient"
+    },
+    "feedbackform.button.text": {
+        "uk": "Надіслати",
+        "ru": "Отправить",
+        "en": "Send"
+    },
+    "feedbackform.checkbox.label": {
+        "uk": "Надаю згоду на обробку своїх персональних даних",
+        "ru": "Даю согласие на обработку персональных данных",
+        "en": "I agree to my information being used"
+    },
+    "feedbackform.email.placeholder": {
+        "uk": "Не обов'язково",
+        "ru": "Необязательно",
+        "en": "Optionally"
+    },
+    "feedbackform.email.title": {
+        "uk": "E-mail",
+        "ru": "E-mail",
+        "en": "E-mail"
+    },
+    "feedbackform.label": {
+        "uk": "Форма зворотнього зв’язку",
+        "ru": "Форма обратной связи",
+        "en": "Feedback form"
+    },
+    "feedbackform.name.placeholder": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+    },
+    "feedbackform.name.title": {
+        "uk": "Ім’я",
+        "ru": "Имя",
+        "en": "Name"
+    },
+    "feedbackform.phone.placeholder": {
+        "uk": "+38 (0xx)-xxx-xx-xx",
+        "ru": "+38 (0xx)-xxx-xx-xx",
+        "en": "+38 (0xx)-xxx-xx-xx"
+    },
+    "feedbackform.phone.title": {
+        "uk": "Номер телефону",
+        "ru": "Номер телефона",
+        "en": "Phone number"
+    },
+    "feedbackform.sent-message": {
+        "uk": "Дякуємо! Форму надіслано.",
+        "ru": "Форма отправлена.",
+        "en": "Form has been sent."
+    },
+    "feedbackform.text.placeholder": {
+        "uk": "Опишіть ваше звернення...",
+        "ru": "Опишите суть вашего обращения...",
+        "en": "Describe your appeal..."
+    },
+    "feedbackform.text.title": {
+        "uk": "Текст",
+        "ru": "Текст",
+        "en": "Message"
+    },
+    "files.category.certificate": {
+        "uk": "Сертифікати",
+        "ru": "Сертификаты",
+        "en": "Certificates"
+    },
+    "files.category.conclusion": {
+        "uk": "Експертні висновки",
+        "ru": "Экспертные заключения",
+        "en": "Expert Conclusions"
+    },
+    "files.category.declaration": {
+        "uk": "Декларації",
+        "ru": "Декларации",
+        "en": "Declarations"
+    },
+    "files.category.driver": {
+        "uk": "Драйвери",
+        "ru": "Драйвера",
+        "en": "Drivers"
+    },
+    "files.category.instruction": {
+        "uk": "Інструкції",
+        "ru": "Иструкции",
+        "en": "Instructions"
+    },
+    "files.category.license": {
+        "uk": "Ліцензії",
+        "ru": "Лицензии",
+        "en": "Licenses"
+    },
+    "files.category.software": {
+        "uk": "Програмне забезпечення",
+        "ru": "Программное обеспечение",
+        "en": "Software"
+    },
+    "files.category.archive": {
+        "uk": "Архів",
+        "ru": "Архив",
+        "en": "Archive"
+    },
+    "footer.about": {
+        "uk": "Про нас",
+        "ru": "Про нас",
+        "en": "About"
+    },
+    "footer.cabinet": {
+        "uk": "Особистий кабінет",
+        "ru": "Личный кабинет",
+        "en": "Personal cabinet"
+    },
+    "footer.callback": {
+        "uk": "Зворотній дзвінок",
+        "ru": "Обратный звонок",
+        "en": "Callback"
+    },
+    "footer.certificates": {
+        "uk": "Сертифікати",
+        "ru": "Сертификаты",
+        "en": "Certificates"
+    },
+    "footer.chat": {
+        "uk": "Чат",
+        "ru": "Чат",
+        "en": "Chat"
+    },
+    "footer.contacts": {
+        "uk": "Контакти",
+        "ru": "Контакты",
+        "en": "Contacts"
+    },
+    "footer.drivers": {
+        "uk": "Драйвера",
+        "ru": "Драйверы",
+        "en": "Drivers"
+    },
+    "footer.faq": {
+        "uk": "FAQ",
+        "ru": "FAQ",
+        "en": "FAQ"
+    },
+    "footer.help": {
+        "uk": "Допомога",
+        "ru": "Помощь",
+        "en": "Help"
+    },
+    "footer.history": {
+        "uk": "Історія компанії",
+        "ru": "История компании",
+        "en": "Company history"
+    },
+    "footer.hours1": {
+        "uk": "Пн-Пт 09:00-18:00",
+        "ru": "Пн-Пт 09:00-18:00",
+        "en": "Mon-Fri 9AM-6PM"
+    },
+    "footer.hours2": {
+        "uk": "Сб-Нд Вихідний",
+        "ru": "Сб-Вс Выходной",
+        "en": "Sat-Sun Day-off"
+    },
+    "footer.licenses": {
+        "uk": "Ліцензії",
+        "ru": "Лицензии",
+        "en": "Licenses"
+    },
+    "footer.manuals": {
+        "uk": "Інструкції",
+        "ru": "Инструкции",
+        "en": "Manuals"
+    },
+    "footer.support": {
+        "uk": "Техпідтримка",
+        "ru": "Техподдержка",
+        "en": "Technical support"
+    },
+    "footer.user": {
+        "uk": "Користувач",
+        "ru": "Пользователь",
+        "en": "User"
+    },
+    "footer.workhours": {
+        "uk": "Режим роботи",
+        "ru": "Режим работи",
+        "en": "Working hours"
+    },
+    "language": {
+        "uk": "Мова",
+        "ru": "Язык",
+        "en": "Language"
+    },
+    "language.en": {
+        "uk": "English",
+        "ru": "English",
+        "en": "English"
+    },
+    "language.ru": {
+        "uk": "Русский",
+        "ru": "Русский",
+        "en": "Русский"
+    },
+    "language.uk": {
+        "uk": "Українська",
+        "ru": "Українська",
+        "en": "Українська"
+    },
+    "link.button-go": {
+        "uk": "Перейти на сторінку",
+        "ru": "Перейти на страницу",
+        "en": "Go the website"
+    },
+    "link.coming-soon": {
+        "uk": "Зовсім скоро",
+        "ru": "Совсем скоро",
+        "en": "Coming soon"
+    },
+    "links": {
+        "uk": "Посилання",
+        "ru": "Ссылки",
+        "en": "Links"
+    },
+    "no-content-on-this-lang": {
+        "uk": "Нема контенту",
+        "ru": "Нет контента",
+        "en": "No content"
+    },
+    "notify.warning": {
+        "uk": "Виникла помилка",
+        "ru": "Возникла ошибка",
+        "en": "An error has occurred"
+    },
+    "official.project.name": {
+        "uk": "ТОВ «АВТОР»",
+        "ru": "ООО «АВТОР»",
+        "en": "«AVTOR» LLC"
+    },
+    "page.404.button": {
+        "uk": "Повернутись на головну",
+        "ru": "Вернуться на главную",
+        "en": "Go to home"
+    },
+    "page.404.label": {
+        "uk": "Сторінку не знайдено",
+        "ru": "Страницу не найдено",
+        "en": "Page not found"
+    },
+    "page.partnership.links-label": {
+        "uk": "Наші партнери",
+        "ru": "Наши партнеры",
+        "en": "Our partners"
+    },
+    "page.service.downloads": {
+        "uk": "Завантаження",
+        "ru": "Загрузка",
+        "en": "Downloads"
+    },
+    "page.service.faq": {
+        "uk": "Найчастіші питання",
+        "ru": "Часто задаваемые вопросы",
+        "en": "Frequently Asked Questions"
+    },
+    "page.service.guarantee": {
+        "uk": "Гарантійне обслуговування",
+        "ru": "Гарантийное обслуживание",
+        "en": "Warranty service"
+    },
+    "page.solutions.links-label": {
+        "uk": "Реалізовані рішення",
+        "ru": "Реализованные решения",
+        "en": "Implemented solutions"
+    },
+    "products": {
+        "uk": "Продукти",
+        "ru": "Продукты",
+        "en": "Products"
+    },
+    "products.page.subtitle": {
+        "uk": "Всі продукти прямо перед вами.",
+        "ru": "Все продукты прямо перед вами.",
+        "en": "All products are here."
+    },
+    "project.name": {
+        "uk": "Автор",
+        "ru": "Автор",
+        "en": "Avtor"
+    },
+    "search": {
+        "uk": "Пошук",
+        "ru": "Поиск",
+        "en": "Search"
+    },
+    "search.not-found.label": {
+        "uk": "Результатів немає",
+        "ru": "Результатов нет",
+        "en": "No results"
+    },
+    "search.not-found.text": {
+        "uk": "Ми все облетіли, але нічого не знайшли",
+        "ru": "Мы все облетели, но ничего не нашли",
+        "en": "We flew around, but found nothing"
+    },
+    "search.placeholder": {
+        "uk": "Введіть слово для пошуку",
+        "ru": "Введите слово для поиска",
+        "en": "Enter a search word"
+    },
+    "search.results.label": {
+        "uk": "Результат пошуку",
+        "ru": "Результат поиска",
+        "en": "Search result"
+    },
+    "search.results.text": {
+        "uk": "За пошуком «{query}» знайдено {count} {resultWord}.",
+        "ru": "По поиску «{query}» найдено {count} {resultWord}.",
+        "en": "Search «{query}» returned {count} {resultWord}."
+    },
+    "search.type.page": {
+        "uk": "Сторінка",
+        "ru": "Страница",
+        "en": "Page"
+    },
+    "search.type.product": {
+        "uk": "Продукт",
+        "ru": "Продукт",
+        "en": "Product"
+    },
+    "search.type.solution": {
+        "uk": "Рішення",
+        "ru": "Решение",
+        "en": "Solution"
+    },
+    "tab.downloads": {
+        "uk": "Програмне забезпечення",
+        "ru": "Программное обеспечение",
+        "en": "Software"
+    },
+    "tab.general": {
+        "uk": "Загальний опис",
+        "ru": "Общее описание",
+        "en": "General description"
+    },
+    "tab.tech": {
+        "uk": "Технічні характеристики",
+        "ru": "Технические характеристики",
+        "en": "Specifications"
+    },
+    "up-button.text": {
+        "uk": "Повернутися до початку",
+        "ru": "Вернуться к началу",
+        "en": "Back to top"
+    }
+}

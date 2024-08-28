@@ -1,0 +1,154 @@
+{
+  "button": {
+    "download": "Скачать",
+    "view": "Посмотреть"
+  },
+  "contacts": {
+    "address": "Адресс",
+    "bankdetails": "Реквизиты",
+    "delivery1":  "Адрес Новой почты для отправки до <mark>2 кг</mark>",
+    "delivery2": "Адрес Новой почты для отправки до <mark>30 кг</mark>",
+    "edrpou": "Код ЕДРПОУ",
+    "email": "Електронная почта",
+    "hint": {
+      "main-email": "Отдел продаж",
+      "main-phone": "Основной телефон",
+      "sales-phone":  "Отдел продаж",
+      "support": "Техподдержка"
+    },
+    "iban": "IBAN",
+    "ipn": "ИПН",
+    "mfo": "МФО",
+    "phone": "Телефон",
+    "postoffice": "г. Киев",
+    "recipient": "Получатель"
+  },
+  "feedbackform": {
+    "button": {
+      "text": "Отправить"
+    },
+    "checkbox": {
+      "label": "Даю согласие на обработку персональных данных"
+    },
+    "email": {
+      "placeholder": "Необязательно",
+      "title": "E-mail"
+    },
+    "label": "Форма обратной связи",
+    "name": {
+      "placeholder": "",
+      "title": "Имя"
+    },
+    "phone": {
+      "placeholder": "+38 (0xx)-xxx-xx-xx",
+      "title": "Номер телефона"
+    },
+    "sent-message": "Форма отправлена.",
+    "text": {
+      "placeholder": "Опишите суть вашего обращения...",
+      "title": "Текст"
+    }
+  },
+  "files": {
+    "category": {
+      "certificate": "Сертификаты",
+      "conclusion": "Экспертные заключения",
+      "declaration": "Декларации",
+      "driver": "Драйвера",
+      "instruction": "Иструкции",
+      "license": "Лицензии",
+      "software": "Программное обеспечение",
+      "archive": "Архив"
+    }
+  },
+  "footer": {
+    "about": "Про нас",
+    "cabinet": "Личный кабинет",
+    "callback": "Обратный звонок",
+    "certificates": "Сертификаты",
+    "chat": "Чат",
+    "contacts": "Контакты",
+    "drivers": "Драйверы",
+    "faq": "FAQ",
+    "help": "Помощь",
+    "history": "История компании",
+    "hours1": "Пн-Пт 09:00-18:00",
+    "hours2": "Сб-Вс Выходной",
+    "licenses": "Лицензии",
+    "manuals": "Инструкции",
+    "support": "Техподдержка",
+    "user": "Пользователь",
+    "workhours": "Режим работи"
+  },
+  "language": {
+    "language": "Язык",
+    "en": "English",
+    "ru": "Русский",
+    "uk": "Українська"
+  },
+  "link": {
+    "button-go": "Перейти на страницу",
+    "coming-soon": "Совсем скоро"
+  },
+  "links": "Ссылки",
+  "no-content-on-this-lang": "Нет контента",
+  "notify": {
+    "warning": "Возникла ошибка"
+  },
+  "official": {
+    "project": {
+      "name": "ООО «АВТОР»"
+    }
+  },
+  "page": {
+    "404": {
+      "button": "Вернуться на главную",
+      "label": "Страницу не найдено"
+    },
+    "partnership": {
+      "links-label": "Наши партнеры"
+    },
+    "service": {
+      "downloads": "Загрузка",
+      "faq":  "Часто задаваемые вопросы",
+      "guarantee": "Гарантийное обслуживание"
+    },
+    "solutions": {
+      "links-label": "Реализованные решения"
+    }
+  },
+  "products": {
+    "products": "Продукты",
+    "page": {
+      "subtitle": "Все продукты прямо перед вами."
+    }
+  },
+  "project": {
+    "name": "Автор"
+  },
+  "search": {
+    "search": "Поиск",
+    "not-found": {
+      "label": "Результатов нет",
+      "text": "Мы все облетели, но ничего не нашли"
+    },
+    "placeholder": "Введите слово для поиска",
+    "results": {
+      "label": "Результат поиска",
+      "text": "По поиску «{query}» найдено {count} {resultWord}."
+    },
+    "type": {
+      "page":  "Страница",
+      "product": "Продукт",
+      "solution": "Решение"
+    }
+  },
+  "tab": {
+    "downloads": "Программное обеспечение",
+    "general": "Общее описание",
+    "tech": "Технические характеристики"
+  },
+  "up-button": {
+    "text": "Вернуться к началу"
+  }
+}

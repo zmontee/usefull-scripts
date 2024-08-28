@@ -1,0 +1,154 @@
+{
+  "button": {
+      "download": "Download",
+      "view":"Look"
+  },
+  "contacts": {
+    "address": "Address",
+    "bankdetails": "Bank Details",
+    "delivery1": "Nova Poshta address for sending up to <mark>2 kg</mark>",
+    "delivery2": "Nova Poshta address for sending up to <mark>30 kg</mark>",
+    "edrpou": "USREOU",
+    "email": "Email",
+    "hint": {
+      "main-email": "Sales",
+      "main-phone": "Main phone",
+      "sales-phone": "Sales",
+      "support": "Support"
+    },
+    "iban": "IBAN",
+    "ipn": "IPN",
+    "mfo": "МФО",
+    "phone": "Phone",
+    "postoffice": "Kyiv city",
+    "recipient": "Recipient"
+  },
+  "feedbackform": {
+    "button": {
+      "text": "Send"
+    },
+    "checkbox": {
+      "label": "I agree to my information being used"
+    },
+    "email": {
+      "placeholder": "Optionally",
+      "title": "E-mail"
+    },
+    "label": "Feedback form",
+    "name": {
+      "placeholder": "",
+      "title": "Name"
+    },
+    "phone": {
+      "placeholder": "+38 (0xx)-xxx-xx-xx",
+      "title": "Phone number"
+    },
+    "sent-message": "Form has been sent.",
+    "text": {
+      "placeholder": "Describe your appeal...",
+      "title": "Message"
+    }
+  },
+  "files": {
+    "category": {
+      "certificate": "Certificates",
+      "conclusion": "Expert Conclusions",
+      "declaration": "Declarations",
+      "driver": "Drivers",
+      "instruction": "Instructions",
+      "license": "Licenses",
+      "software":  "Software",
+      "archive": "Archive"
+    }
+  },
+  "footer": {
+    "about": "About",
+    "cabinet": "Personal cabinet",
+    "callback": "Callback",
+    "certificates": "Certificates",
+    "chat": "Chat",
+    "contacts": "Contacts",
+    "drivers": "Drivers",
+    "faq": "FAQ",
+    "help": "Help",
+    "history": "Company history",
+    "hours1": "Mon-Fri 9AM-6PM",
+    "hours2": "Sat-Sun Day-off",
+    "licenses":  "Licenses",
+    "manuals": "Manuals",
+    "support": "Technical support",
+    "user": "User",
+    "workhours": "Working hours"
+  },
+  "language": {
+    "language": "Language",
+    "en":  "English",
+    "ru": "Русский",
+    "uk": "Українська"
+  },
+  "link": {
+    "button-go": "Go the website",
+    "coming-soon": "Coming soon"
+  },
+  "links": "Links",
+  "no-content-on-this-lang": "No content",
+  "notify": {
+    "warning": "An error has occurred"
+  },
+  "official": {
+    "project": {
+      "name": "«AVTOR» LLC"
+    }
+  },
+  "page": {
+    "404": {
+      "button": "Go to home",
+      "label":"Page not found"
+    },
+    "partnership": {
+      "links-label": "Our partners"
+    },
+    "service": {
+      "downloads": "Downloads",
+      "faq": "Frequently Asked Questions",
+      "guarantee": "Warranty service"
+    },
+    "solutions": {
+      "links-label": "Implemented solutions"
+    }
+  },
+  "products": {
+    "products": "Products",
+    "page": {
+      "subtitle": "All products are here."
+    }
+  },
+  "project": {
+    "name": "Avtor"
+  },
+  "search": {
+    "search": "Search",
+    "not-found": {
+      "label": "No results",
+      "text": "We flew around, but found nothing"
+    },
+    "placeholder": "Enter a search word",
+    "results": {
+      "label": "Search result",
+      "text": "Search «{query}» returned {count} {resultWord}."
+    },
+    "type": {
+      "page": "Page",
+      "product": "Product",
+      "solution": "Solution"
+    }
+  },
+  "tab": {
+    "downloads": "Software",
+    "general": "General description",
+    "tech": "Specifications"
+  },
+  "up-button": {
+    "text": "Back to top"
+  }
+}

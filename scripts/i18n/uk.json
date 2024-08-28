@@ -1,0 +1,154 @@
+{
+  "button": {
+    "download": "Завантажити",
+    "view": "Переглянути"
+  },
+  "contacts": {
+    "address": "Адреса",
+    "bankdetails": "Платіжні реквізити",
+    "delivery1": "Адреса Нової пошти для відправлень до <mark>2 кг</mark>",
+    "delivery2": "Адреса Нової пошти для відправлень до <mark>30 кг</mark>",
+    "edrpou": "Код ЄДРПОУ",
+    "email": "Електронна пошта",
+    "hint": {
+      "main-email": "Відділ продажу",
+      "main-phone":  "Пряма лінія",
+      "sales-phone": "Відділ продажу",
+      "support": "Техпідтримка"
+    },
+    "iban": "IBAN у АБ «УКРГАЗБАНК»",
+    "ipn": "ІПН",
+    "mfo": "МФО",
+    "phone": "Телефон",
+    "postoffice": "м. Київ",
+    "recipient": "Одержувач"
+  },
+  "feedbackform": {
+    "button": {
+      "text": "Надіслати"
+    },
+    "checkbox": {
+      "label": "Надаю згоду на обробку своїх персональних даних"
+    },
+    "email": {
+      "placeholder": "Не обов'язково",
+      "title": "E-mail"
+    },
+    "label": "Форма зворотнього зв’язку",
+    "name": {
+      "placeholder": "",
+      "title": "Ім’я"
+    },
+    "phone": {
+      "placeholder":  "+38 (0xx)-xxx-xx-xx",
+      "title": "Номер телефону"
+    },
+    "sent-message": "Дякуємо! Форму надіслано.",
+    "text": {
+      "placeholder":  "Опишіть ваше звернення...",
+      "title": "Текст"
+    }
+  },
+  "files": {
+    "category": {
+      "certificate": "Сертифікати",
+      "conclusion": "Експертні висновки",
+      "declaration": "Декларації",
+      "driver": "Драйвери",
+      "instruction": "Інструкції",
+      "license": "Ліцензії",
+      "software": "Програмне забезпечення",
+      "archive": "Архів"
+    }
+  },
+  "footer": {
+    "about": "Про нас",
+    "cabinet": "Особистий кабінет",
+    "callback": "Зворотній дзвінок",
+    "certificates": "Сертифікати",
+    "chat": "Чат",
+    "contacts": "Контакти",
+    "drivers": "Драйвера",
+    "faq": "FAQ",
+    "help": "Допомога",
+    "history": "Історія компанії",
+    "hours1": "Пн-Пт 09:00-18:00",
+    "hours2": "Сб-Нд Вихідний",
+    "licenses": "Ліцензії",
+    "manuals":  "Інструкції",
+    "support": "Техпідтримка",
+    "user": "Користувач",
+    "workhours": "Режим роботи"
+  },
+  "language": {
+    "language": "Мова",
+    "en": "English",
+    "ru": "Русский",
+    "uk": "Українська"
+  },
+  "link": {
+    "button-go": "Перейти на сторінку",
+    "coming-soon": "Зовсім скоро"
+  },
+  "links": "Посилання",
+  "no-content-on-this-lang": "Нема контенту",
+  "notify": {
+    "warning": "Виникла помилка"
+  },
+  "official": {
+    "project": {
+      "name": "ТОВ «АВТОР»"
+    }
+  },
+  "page": {
+    "404": {
+      "button": "Повернутись на головну",
+      "label": "Сторінку не знайдено"
+    },
+    "partnership": {
+      "links-label": "Наші партнери"
+    },
+    "service": {
+      "downloads": "Завантаження",
+      "faq": "Найчастіші питання",
+      "guarantee": "Гарантійне обслуговування"
+    },
+    "solutions": {
+      "links-label": "Реалізовані рішення"
+    }
+  },
+  "products": {
+    "products": "Продукти",
+    "page": {
+      "subtitle": "Всі продукти прямо перед вами."
+    }
+  },
+  "project": {
+    "name": "Автор"
+  },
+  "search": {
+    "search": "Пошук",
+    "not-found": {
+      "label": "Результатів немає",
+      "text": "Ми все облетіли, але нічого не знайшли"
+    },
+    "placeholder": "Введіть слово для пошуку",
+    "results": {
+      "label": "Результат пошуку",
+      "text": "За пошуком «{query}» знайдено {count} {resultWord}."
+    },
+    "type": {
+      "page": "Сторінка",
+      "product":  "Продукт",
+      "solution": "Рішення"
+    }
+  },
+  "tab": {
+    "downloads":  "Програмне забезпечення",
+    "general":  "Загальний опис",
+    "tech": "Технічні характеристики"
+  },
+  "up-button": {
+    "text": "Повернутися до початку"
+  }
+}
